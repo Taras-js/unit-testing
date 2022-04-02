@@ -1,0 +1,18 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "unit testing from jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "jest"
+  ],
+  "author": "Taras <i@shev-taras.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
